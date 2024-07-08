@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer
 ------------------
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprogramming-languages-10368129-8410467.gif&tbnid=GTItDK_P115NrM&vet=10CAsQ1JoKKAFqFwoTCNiHipzulocDFQAAAAAdAAAAABAS..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fprogramming-languages-10368129&docid=7bqq7yvWFgp7iM&w=450&h=350&itg=1&q=animated%20coding%20gif&ved=0CAsQ1JoKKAFqFwoTCNiHipzulocDFQAAAAAdAAAAABAS#imgrc=GTItDK_P115NrM&imgdii=TU6M-pr48V2rEM
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 I'm a Frontend Developer loving React!
 
